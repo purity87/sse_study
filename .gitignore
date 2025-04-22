@@ -1,3 +1,11 @@
+# Frontend
+/react-sse-client/node_modules/
+/react-sse-client/dist/
+
+# Backend
+/spring-sse-server/build/
+/spring-sse-server/out/
+
 # Compiled class file
 *.class
 
